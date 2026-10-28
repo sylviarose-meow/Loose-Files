@@ -11,7 +11,7 @@
 6. It keeps every answer in storage. It never asks the same question twice.
 7. It fits prompts by type inside 1200 plus 1000 character caps.
 
-Status: v0.26 tier climb, scaffolding hygiene — `closenessTier` takes the higher of the standing word (floor) and the `record.lifetime` count so talk always climbs and no default word can lock arcs out; new §2.1.11 keeps strict first lines out of visible chat; reference implementation at `src/arc-machine.js` (pure ESM, zero deps); blank-generator run-through green (seed theme, ask, step, long build, twist + theme change, assumed-spoken-not-stored, memory recall, budgets, no-twist close, tier climb, strip); spec mirrors the report-beat twist guard.
+Status: v0.26 tier climb, scaffolding hygiene — `closenessTier` takes the higher of the standing word (floor) and the `record.lifetime` count so talk always climbs and no default word can lock arcs out; new §2.1.11 keeps strict first lines out of visible chat; reference implementation at `./arc-machine.js` (pure ESM, zero deps); blank-generator run-through green (seed theme, ask, step, long build, twist + theme change, assumed-spoken-not-stored, memory recall, budgets, no-twist close, tier climb, strip); spec mirrors the report-beat twist guard.
 
 ## 0. Problem
 
