@@ -1,3 +1,4 @@
+[PORTABLE-ARC-SPEC.md](https://github.com/user-attachments/files/34100837/PORTABLE-ARC-SPEC.md)
 # Roleplay story arcs for chatbots — spec (v0.26 tier climb, scaffolding hygiene, 2026-10-28)
 
 ## About this spec (plain language, translation-friendly)
